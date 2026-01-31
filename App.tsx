@@ -10,6 +10,7 @@ import { Issue, User } from './types';
 import { Plus, Sparkles, Filter, Search, Activity, RefreshCw, AlertCircle, User as UserIcon } from 'lucide-react';
 import { useTranslation } from './context/LanguageContext';
 
+
 const App: React.FC = () => {
   const [user, setUser] = useState<User | null>(null);
   const [activeTab, setActiveTab] = useState('dashboard');
