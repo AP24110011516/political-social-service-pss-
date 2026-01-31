@@ -1,0 +1,6 @@
+
+{
+  "name": "CivicConnect - Digital Governance Platform",
+  "description": "A comprehensive government-grade digital platform for citizens to report issues, track resolutions, and monitor representative performance with AI-powered insights.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
